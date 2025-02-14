@@ -1,2 +1,2 @@
 print("ROKEY")
-peinr("Hello World!")
+print("Hello World!")
